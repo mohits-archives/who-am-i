@@ -1,0 +1,52 @@
+body {
+    font-family: system-ui, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 1rem;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    width: 100%;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: #eee;
+    padding: 0.75rem;
+    margin-bottom: 0.5rem;
+    border-radius: 6px;
+}
+
+#answer {
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 1rem;
+}

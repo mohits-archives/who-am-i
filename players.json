@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Thierry Henry",
+        "nationality": "France",
+        "club": "Arsenal",
+        "position": "ST",
+        "games": 794,
+        "goals": 360,
+        "marketValue": "Retired"
+    },
+    {
+        "name": "Kevin de Bruyne",
+        "nationality": "Belgium",
+        "club": "Manchester City",
+        "position": "CM",
+        "games": 650,
+        "goals": 150,
+        "marketValue": "€60m"
+    },
+    {
+    "name": "Lionel Messi",
+    "nationality": "Argentina",
+    "club": "Inter Miami",
+    "position": "Forward",
+    "games": 1000,
+    "goals": 800
+    }
+]
